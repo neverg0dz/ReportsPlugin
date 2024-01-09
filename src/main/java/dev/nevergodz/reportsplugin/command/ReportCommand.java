@@ -47,7 +47,7 @@ public class ReportCommand implements CommandExecutor {
                 onlinePlayer.spigot().sendMessage(messageComponent);
             }
         }
-        reporter.sendMessage("Репорт отправлен.");
+        reporter.sendMessage("Репорт на игрока отправлен.");
         return true;
     }
 }

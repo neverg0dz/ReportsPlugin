@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ReportUtilPlugin.main:jar">
+    <output-path>$PROJECT_DIR$/../../NeverMine/test/plugins</output-path>
+    <root id="archive" name="ReportUtilPlugin.main.jar">
+      <element id="module-output" name="ReportUtilPlugin.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

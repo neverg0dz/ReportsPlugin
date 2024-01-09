@@ -1,0 +1,8 @@
+name: ReportUtilPlugin
+version: '${version}'
+main: dev.nevergodz.reportutilplugin.ReportUtilPlugin
+api-version: 1.12.2
+commands:
+  report:
+    description: Пожаловаться на игрока
+    usage: /<command> <ник> <причина>
